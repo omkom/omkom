@@ -16,8 +16,9 @@ data-driven, pragmatic and automated. I love optimizing processes and pushing th
 To build high-performance, scalable SaaS solutions for Search Marketing, AI Assisted tools creation and data management.
 
 ### 🚀 I'm currently working on:
-- KomUnityAI :An all-in-one SaaS for web marketing, social networks, video content creation and communications with SEO, SEA, data analysis, IA automation.
-- Amour Token: a Web3 and Crypto project to share love on the blockchain
+- Solana Sniper Bot : Not Safe for your Wallets yet
+- (StandBy) KomUnityAI :An all-in-one SaaS for web marketing, social networks, video content creation and communications with SEO, SEA, data analysis, IA automation.
+- (StandBy) Amour Token: a Web3 and Crypto project to share love on the blockchain
 
 ### 🤝 I'm looking to collaborate on
 - Automation projects (N8N, Customer.io, scrapping, advanced tracking).
@@ -28,7 +29,7 @@ To build high-performance, scalable SaaS solutions for Search Marketing, AI Assi
 - Perfecting machine learning strategies applied to Search Marketing.
 - Transition management in the defense and satellite sector.
 - Optimizing marketing data flows via automated pipelines.
-- 
+  
 ### 💬 Ask me anything about
 - Implementing advanced growth hacking strategies.
 - Optimizing tracking and data analysis for marketing performance.
@@ -36,9 +37,6 @@ To build high-performance, scalable SaaS solutions for Search Marketing, AI Assi
 
 ### ⚡ Fun fact
 I have a theory about the photon ether that would contain the information of the universe. I'm convinced we can go further in understanding the web... and the universe. 🚀
-
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@omkom92) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=omkom&icon=0&color=0)](https://visitcount.itsvg.in)
