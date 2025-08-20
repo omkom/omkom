@@ -22,6 +22,11 @@ As an aspiring **AI Growth & Transition Director**, my mission is to **lead o
 
 Below are some of the AI‑powered projects I’ve built and maintained. They illustrate how I blend marketing insights, engineering expertise and autonomous agents to accelerate growth and innovation.
 
+### 🛡️ AEGIS-X v4.0 - *macOS Security Toolkit* 
+
+Ultimate macOS security monitoring system with **20+ specialized modules**, real-time web interface, and **98% test reliability**. Features advanced threat detection (rootkits, miners, keyloggers), AEGIS-X daemon with Discord integration, and comprehensive reporting system.
+🔧 **Stack:** Python, Flask/SocketIO, macOS Security APIs 
+
 ### 🏭 AI Boilerplate Factory
 
 An **autonomous GitHub‑integrated development factory** that turns any project into a continuous AI‑powered development environment. The factory **monitors issues**, automatically creates feature branches, **writes code, reviews pull requests and generates tests**, while integrating with existing CI/CD pipelines. A real‑time dashboard provides live visibility into agent activity, and specialized bots (code, test, review, deploy, monitor and analysis bots) orchestrate tasks across the development lifecycle. This project demonstrates my ability to design **complex agent ecosystems** that automate development and accelerate delivery.
