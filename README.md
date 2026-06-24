@@ -15,17 +15,17 @@ Today I design and operate **multi-agent AI architectures** — 48 autonomous ag
 ### 🏭 OMKomUnity — AI-Powered Project Scoping SaaS
 Production SaaS that transforms project ideas into complete technical specifications autonomously.
 
-- **48 AI agents** across 6 domains · multi-model orchestration (Claude + GPT-4) with fallback chains
+- **48 AI agents** across 6 domains (engineering, product, marketing, C-level, PM, compliance) · multi-model orchestration (Claude + GPT-4) with fallback chains
 - **8 microservices** (React 18, N8N, Strapi, PostgreSQL, Redis, Nginx, Express.js) · 257K+ LOC · Docker production-ready
-- Scoping: **5 days → 15 minutes** · adaptive learning improves +60% after 5 projects
+- Scoping: **5 days → 15 minutes** · real-time streaming (SSE) · adaptive learning improves +60% after 5 projects
 - Generated **2 alpha-ready SaaS products** (TERRADATA.IO, Vitrina) via its own agents — *the SaaS that builds SaaS*
 
 ### 🤖 Claude Code AI Operating System — [Open Source](https://github.com/omkom/ask-erle)
 53 specialized AI skills orchestrated through Claude Code — my daily professional methodology.
 
 - **6 skill layers**: GTD, Development, SEO, GEO/LLMO, Consulting, Infrastructure
-- Deterministic **prompt-router hook** pre-qualifying every request · zero LLM freestyle
-- **14 enterprise audit deliverables** for Sport2000 (4 domains, technical migration) — solo = 5-person team
+- Deterministic **prompt-router hook** pre-qualifying every request · zero LLM freestyle · wiki-based session continuity
+- **14 enterprise audit deliverables** for Sport2000 (4 domains, technical migration) — solo = 5-person team output
 - [**ask-erle**](https://github.com/omkom/ask-erle): AI agent that answers recruiter questions using structured knowledge RAG — *ask it anything about me*
 
 ### 🌐 Vitrina — Full-Stack SaaS (Google Cloud)
@@ -65,13 +65,15 @@ Production-ready trading bot on Solana. Built as a Friday project — playing Ro
 | Period | Role | Key Impact |
 |--------|------|------------|
 | **2025–now** | Founder & AI Architect — OMKomUnity | 48 agents · 8 microservices · 257K+ LOC · SaaS that builds SaaS |
-| **2024–now** | AI Consultant — Independent | 14 enterprise deliverables solo (Sport2000) · 5-person output |
-| **2023–2024** | Head of MarTech — Reezocar (13 reports) | Acquisition costs **-65%** · organic traffic **+9%** |
+| **2024–now** | Creator — Claude Code AI OS | 53 skills · 14 enterprise deliverables solo · **5-person team** output |
+| **2023–2024** | Head of MarTech — Reezocar (13 reports) | Acquisition costs **-65%** · organic traffic **+9%** · lead cost **<35€** |
 | **2022–2023** | CDMO — RAYN/AKT.IO (Web3 Fintech) | GDPR compliance · attribution tracking · onboarding **+27%** |
 | **2021–2023** | Performance Architect — Reezocar | Traffic **1.3M → 3.4M** visits/month · exec board advisor |
+| **2020–2024** | Growth Dev & CTO — Independent | Patek Philippe, Rakuten, Eskimoz, CDiscount, Boulanger |
 | **2019–2021** | Acquisition Manager — Reezocar | **+137% SEO traffic** in 100 days |
 | **2017–2019** | CSM — OnCrawl SaaS | 30+ enterprise accounts (CDiscount, OVH, Leroy Merlin) |
-| **2002–2017** | Sr. Developer → SEO Manager — Orange | 15 years: 13 hands-on dev/DevOps + 2 years management |
+| **2015–2017** | SEO Manager — Orange & Sosh E-Commerce | Qualified traffic · agency coordination · e-commerce sales |
+| **2002–2015** | Senior Developer & DevOps — Orange | 13 years · Orange.fr homepage redesign · stack modernization |
 
 ## 🤝 What Drives Me
 
