@@ -88,7 +88,6 @@ I have a theory about the **photon ether** — a medium that might contain all t
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:erle.alberton@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%F0%9F%95%89%EF%B8%8F-erl%C3%A9-alberton-561a7824/) 
 [![ask-erle](https://img.shields.io/badge/ask--erle-AI%20Agent-blue?logo=github)](https://github.com/omkom/ask-erle)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/cubilizer) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cubilizer)
 
 ---
