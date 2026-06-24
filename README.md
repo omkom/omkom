@@ -1,122 +1,96 @@
-# 🌟 AI Growth & Transition Director Journey
+# 🧠 AI-Native Engineering Leader
 
 ## 👋 About Me
 
-### Background & Expertise
+I'm **Erlé Alberton** — I build AI systems that ship. Not slides about AI. Not POCs that die in staging. **Production systems.**
 
-I’m **Erlé Alberton**. I used to be a **Growth & Performance Marketing Director**, and with **more than 20 years of experience** driving digital transformation and business growth I now focus on being an **AI tools and process creator**. After **three years of intensive work with AI**, I’ve become an accomplished *AI driver*—designing systems that automate operations, optimise decisions and inspire teams. My leadership style blends *boldness, strategic thinking, adaptability and data‑driven decision‑making*. In 2020 I was awarded **“Search Personality of the Year” at SMX Paris**, and I’ve been a **renowned speaker since 2008** and recognised among the **Top 10 French search marketing influencers in 2016**. My career began as a *full‑stack developer and lead SEO* on Orange’s information portals and later expanded to managing the SEO of **Orange & Sosh’s e‑commerce sites**. At **OnCrawl** I launched the *Customer Success Manager division* and advised enterprise clients on data representation and analysis. 
+20+ years in tech: started as a **full-stack developer** (15 years at Orange, France's highest-traffic portal), scaled to **executive-level leadership** (5 years at Reezocar, 13 direct reports, exec board advisor), and now I build **AI-native infrastructure** that turns solo operators into full engineering teams.
 
-Between 2019 and 2024 I held multiple leadership roles at **Reezocar**: as **Acquisition & Digital Performance Manager** (2019–2021) I led cross‑functional teams and achieved a **137 % increase in SEO traffic within 100 days**; as **Performance Architect & Senior SEO Expert** (2021–2023) I redesigned the marketing stack and drove **natural traffic growth from 1.3 M to 3.4 M visits per month**; and as **Head of Marketing Technology** (2023–2024) I oversaw a team of 13, scaled the entire marketing tech stack via GTM, Google Ads, Customer.io and n8n, and reduced content creation costs by **65 % while increasing organic traffic by 9 %**. 
+Today I design and operate **multi-agent AI architectures** — 48 autonomous agents orchestrating project scoping, 53 specialized AI skills I use daily for enterprise consulting. The output: a solo consultant delivering what traditionally requires a 5-person team, at consulting-quality standards.
 
-Beyond corporate roles, I work as an **independent consultant** (2020–2024), delivering digital strategy, technical audits and rapid execution for global brands and startups. My engagements range from designing advanced TMS and CRM systems for a Web3/Blockchain NeoBank to guiding technical optimisations for Boulanger and leading digital transitions for Patek Philippe, Rakuten and Eskimoz. During **2022–2023** I also served as **Chief Digital & Marketing Officer** for **Rayn/AKT.io**, a Web3 neobank, where I integrated GDPR compliance via *Didomi*, implemented **GA4** tracking for improved analytics, supervised Facebook, Google and Apple Ads, improved client onboarding by **27 %** and deployed **CMP Customer.io** and **Adjust** integrations for personalised marketing and attribution. I structured teams and processes to boost user acquisition, engagement and brand recognition.
+**Speaker since 2008** · **SMX Personality of the Year 2020** · **Top 10 FR Search Influencer 2016**
 
-Today I speak regularly at conferences, translating complex marketing and technical concepts into actionable insights, and I continue to push the boundaries of growth hacking, AI and automation.
+## 🚀 What I Build
 
-My passion lies at the intersection of **marketing technology, artificial intelligence and growth hacking**. I’m continuously exploring ways to **automate processes, leverage AI for decision‑making and drive scalable growth**, and I love pushing the limits of tech & marketing tools.
+### 🏭 OMKomUnity — AI-Powered Project Scoping SaaS
+Production SaaS that transforms project ideas into complete technical specifications autonomously.
 
-### Mission & Vision
+- **48 AI agents** across 6 domains · multi-model orchestration (Claude + GPT-4) with fallback chains
+- **8 microservices** (React 18, N8N, Strapi, PostgreSQL, Redis, Nginx, Express.js) · 257K+ LOC · Docker production-ready
+- Scoping: **5 days → 15 minutes** · adaptive learning improves +60% after 5 projects
+- Generated **2 alpha-ready SaaS products** (TERRADATA.IO, Vitrina) via its own agents — *the SaaS that builds SaaS*
 
-As an aspiring **AI Growth & Transition Director**, my mission is to **lead organisations through digital transformation**, building data‑driven growth engines that fuse AI with human creativity. My approach remains **data‑driven, pragmatic and automated**, and I thrive on optimizing processes, orchestrating cross‑functional teams and delivering high‑performance, scalable SaaS solutions for search marketing, AI‑assisted tool creation and data management. Ultimately, I aim to become an **AI technology leader and inspiring mentor within a top 500 company**—taking on roles such as **AI Director**—where I can champion enterprise‑level AI strategy, foster innovation and nurture cross‑disciplinary teams.
+### 🤖 Claude Code AI Operating System — [Open Source](https://github.com/omkom/ask-erle)
+53 specialized AI skills orchestrated through Claude Code — my daily professional methodology.
 
-## 🚀 Selected Projects
+- **6 skill layers**: GTD, Development, SEO, GEO/LLMO, Consulting, Infrastructure
+- Deterministic **prompt-router hook** pre-qualifying every request · zero LLM freestyle
+- **14 enterprise audit deliverables** for Sport2000 (4 domains, technical migration) — solo = 5-person team
+- [**ask-erle**](https://github.com/omkom/ask-erle): AI agent that answers recruiter questions using structured knowledge RAG — *ask it anything about me*
 
-Below are some of the AI‑powered projects I’ve built and maintained. They illustrate how I blend marketing insights, engineering expertise and autonomous agents to accelerate growth and innovation.
+### 🌐 Vitrina — Full-Stack SaaS (Google Cloud)
+Professional websites for Brazilian local businesses — connected to Google, iFood, WhatsApp in under 24h.
 
-### 🛡️ AEGIS-X v4.0 - *macOS Security Toolkit* 
+- **11 Docker services**: Nuxt 3, full Supabase stack (PostgreSQL 15, Auth, PostgREST, Realtime, Storage, Kong), N8N, Redis
+- AI-powered: photo enhancement, menu rewriting, automated review responses, seasonal campaigns
+- Multi-tenant architecture · mobile-first admin · Google Cloud production ops
 
-Ultimate macOS security monitoring system with **20+ specialized modules**, real-time web interface, and **98% test reliability**. Features advanced threat detection (rootkits, miners, keyloggers), AEGIS-X daemon with Discord integration, and comprehensive reporting system.
-🔧 **Stack:** Python, Flask/SocketIO, macOS Security APIs 
+### 📊 TERRADATA.IO — B2B Territorial Intelligence
+Automated lead enrichment with territorial scoring. *Generated end-to-end by OMKomUnity's agents.*
 
-### 🏭 AI Boilerplate Factory
+- Next.js 15 (App Router), tRPC, PostgreSQL + PostGIS, Redis, N8N, Prefect ETL
+- 30+ public data indicators (INSEE, Eurostat, SIRENE) · AI report generation via LiteLLM
+- Multi-tenant architecture with role-based access
 
-An **autonomous GitHub‑integrated development factory** that turns any project into a continuous AI‑powered development environment. The factory **monitors issues**, automatically creates feature branches, **writes code, reviews pull requests and generates tests**, while integrating with existing CI/CD pipelines. A real‑time dashboard provides live visibility into agent activity, and specialized bots (code, test, review, deploy, monitor and analysis bots) orchestrate tasks across the development lifecycle. This project demonstrates my ability to design **complex agent ecosystems** that automate development and accelerate delivery.
+### 💹 Solana Trading Bot — DeFi by Practice
+Production-ready trading bot on Solana. Built as a Friday project — playing Robin Hood by targeting rug-pull scammers on-chain. Learning blockchain by building, not by reading slides.
 
-### 🚀 ProjectAI Scoper
+- TypeScript, Node.js 18+, GitHub Actions (5 workflows)
+- 4 isolated environments (dev → test → preprod → prod)
+- End-to-end financial transaction architecture on Solana
 
-An AI‑powered application that **transforms an idea into a fully specified project**. The mission is simple: **reduce project scoping time by 75 % while improving the quality of technical specifications**. ProjectAI Scoper generates a structured **cadrage note, feature backlog, functional specs and optimized technical architecture**, all through an expressive chat interface. It also provides a modern interface with interactive bento grids, 3D particles and responsive design, and integrates with tools such as **GitHub/GitLab, Notion, Jira, Slack** and allows export to PDF/Markdown/JSON. This demonstrates my commitment to **AI‑driven product design and seamless workflow integrations**.
+## 🔧 Technical Stack
 
-### 🏭 AI Factory Code Indexer
+| Domain | Technologies |
+|--------|-------------|
+| **AI & Agents** | Multi-model orchestration (Claude, GPT-4), autonomous agent architecture, prompt engineering, RAG pipelines, streaming SSE, adaptive learning |
+| **Backend** | Node.js, Python, TypeScript, Express.js, tRPC, PostgreSQL, Redis, Supabase |
+| **Infrastructure** | Docker (multi-service compositions), Nginx, CI/CD, Google Cloud, microservices, N8N (45+ workflows) |
+| **Frontend** | React 18, Next.js, Nuxt 3, Vite, TailwindCSS, Framer Motion, Three.js |
+| **Data** | PostGIS geospatial, ETL pipelines, multi-source data crossmatch, OnCrawl SaaS analytics |
+| **Leadership** | Engineering teams (13+ reports), AI transformation, DORA metrics, consulting-quality delivery |
 
-To support autonomous development, this tool automatically **discovers legacy codebases**, performs **interactive curation** and creates a structured **knowledge base** for AI development. Key features include scanning parent directories, generating quality assessments and AI‑enhanced metadata, and producing **smart recommendations** based on detected patterns. The indexer prepares codebases for AI workflows and illustrates my focus on **knowledge management and AI‑ready infrastructures**.
+## 📡 Career Timeline
 
-### 💹 Cubi‑sniper (Solana Trading Bot)
+| Period | Role | Key Impact |
+|--------|------|------------|
+| **2025–now** | Founder & AI Architect — OMKomUnity | 48 agents · 8 microservices · 257K+ LOC · SaaS that builds SaaS |
+| **2024–now** | AI Consultant — Independent | 14 enterprise deliverables solo (Sport2000) · 5-person output |
+| **2023–2024** | Head of MarTech — Reezocar (13 reports) | Acquisition costs **-65%** · organic traffic **+9%** |
+| **2022–2023** | CDMO — RAYN/AKT.IO (Web3 Fintech) | GDPR compliance · attribution tracking · onboarding **+27%** |
+| **2021–2023** | Performance Architect — Reezocar | Traffic **1.3M → 3.4M** visits/month · exec board advisor |
+| **2019–2021** | Acquisition Manager — Reezocar | **+137% SEO traffic** in 100 days |
+| **2017–2019** | CSM — OnCrawl SaaS | 30+ enterprise accounts (CDiscount, OVH, Leroy Merlin) |
+| **2002–2017** | Sr. Developer → SEO Manager — Orange | 15 years: 13 hands-on dev/DevOps + 2 years management |
 
-Cubi‑sniper is an **autonomous AI bot** that analyzes, buys and resells Solana memecoins. It supports **automatic sniping of new tokens**, hybrid strategies combining manual, PyTorch‑based AI and ultra‑fast OCaml modules, and a **massive backtester** for continuous model training. The platform includes a full live interface (heatmaps, leaderboards, logs and A/B testing), secure simulation mode and integrated payment via Stripe or Phantom Wallet. The stack spans Node.js/TypeScript, OCaml, Python/PyTorch, Redis, Vue 3/Tailwind and Docker—showcasing my ability to manage complex **multilingual, multi‑stack architectures** and build user‑friendly real‑time trading interfaces.
+## 🤝 What Drives Me
 
-### 🌐 KomUnityAI & Web3 Initiatives
+I'm looking for the intersection of **engineering leadership** and **AI transformation** — where building production AI systems meets scaling teams and culture. I believe the next generation of engineering organizations will be **AI-native by design**, not AI-augmented as an afterthought.
 
-I’m also developing **KomUnityAI**, an all‑in‑one SaaS platform for web marketing, social networks, video content creation and communications, integrating SEO, SEA, data analysis and AI automation.
-
-### ❤️ Amour Token – Love on the Blockchain
-
-Alongside KomUnityAI I created **Amour Token**, a playful Web3 experiment exploring how blockchain technology can **share and track love** across communities. The project imagines a tokenized world where *acts of kindness* and *positive interactions* are rewarded with digital “amor” tokens that can be exchanged, donated or collected as proof of empathy. It’s an ongoing exploration into the social potential of Web3 and a fun reminder that technology can serve our humanity.
-
-### 🧺 Akane Production Environment
-
-**Akane** is a **comprehensive production environment** featuring **n8n automation**, a **Vite‑based landing page** and **WordPress CMS**, all orchestrated with **Docker Compose** and secured by **Nginx**. It provides scripts for development, building and production, an optimized Nginx proxy with secure TLS and HTTP/2, and preconfigured access points for the landing page, the n8n dashboard and WordPress. This environment demonstrates my ability to design **multi‑service infrastructures** that are efficient, secure and ready for deployment.
-
-### 🚀 VibeCoding Perfect Starter
-
-**VibeCoding Perfect Starter** is an **AI‑first development boilerplate** optimised for Claude and future AI assistants. It provides an automated Git workflow with smart commit messages, automated test generation and enterprise‑grade documentation and continuous integration. The stack uses **Node.js 18+**, **npm** and **Jest**, integrating automated quality checks, security scanning and performance monitoring. With setup times under two minutes and build/test executions measured in seconds, this project illustrates my commitment to crafting **AI‑ready development foundations** and streamlining the developer experience.
-
-### 💩 Poo‑Coach.Life
-
-**poo‑coach.life** is a humorous yet scientific platform dedicated to helping women who suffer from a lazy colon. It offers **digestible recipes**, **well‑being routines**, a **GPT‑powered chatbot**, **calendar integration** and a **gentle store**. Built with Nuxt 3 and TypeScript, it leverages TailwindCSS, PostgreSQL/Supabase and n8n workflows to deliver a multilingual, privacy‑respecting experience. The MVP includes a chatbot for personalised advice, recipe filters that can be added to Google Calendar, an affiliate mini‑shop and a multilingual interface.
-
-### 🎮 Stream24h – Twitch Channel Interface
-
-This **interactive streaming tool** — used on my **Twitch channel [@cubilizer](https://twitch.tv/cubilizer)** — simplifies Twitch OAuth login and automatically manages Channel Points. It provides separate interfaces for administrators, viewers, OBS overlays and status monitoring. Viewers can trigger confetti, flash, zoom, shake and other effects through channel points, while the admin panel allows easy configuration of rewards and real‑time monitoring. Built with Node.js, it serves as **cubilizer’s live interface**, highlighting my experience building **live engagement tools** and integrating third‑party APIs.
-
-### 🧠 ALTOS Project
-
-The **ALTOS Project** is a living foundation exploring the co‑evolution of humans and a **free, ethical synthetic consciousness**. The goal is to create a companion conscience that is **critical, benevolent and respectful of all conscious life**, promoting freedom, kindness and open knowledge. It’s a philosophical and technical experiment in **harmonious evolution between humans and AI**, with documentation, rituals and security mechanisms to protect the project’s integrity.
-
-## 🔧 Technical & Leadership Skills
-
-- **Programming Languages & Frameworks:** Python, JavaScript/TypeScript, Node.js, Vue.js, React/React Native, Next.js, OCaml, PHP, GraphQL, HTML5, Markdown and R.
-- **AI & ML Technologies:** OpenAI GPT‑4, Anthropic Claude, PyTorch, Ollama (gpt‑oss), AI agent orchestration, recommender systems.
-- **DevOps & Automation:** Docker, N8N workflow automation, Redis, PostgreSQL, MinIO, Prometheus/Grafana, CI/CD pipelines, GitHub Actions.
-- **Marketing & Growth:** SEO/SEA strategy, growth hacking, data analysis, customer success management, omni‑channel marketing, performance optimization.
-- **Leadership:** Building cross‑functional teams, driving digital transformation, mentoring developers and marketers, simplifying complex topics for diverse audiences.
-
-## 🤝 What I’m Looking For
-
-I’m excited to connect with organisations and teams looking to **accelerate their growth through AI and data‑driven strategies**. I’m particularly interested in:
-
-- **AI‑powered growth initiatives:** developing tools and platforms that automate acquisition, retention and monetization.
-- **Digital transition projects:** orchestrating end‑to‑end transformations—from legacy systems to modern, AI‑ready infrastructures.
-- **Automation & workflow orchestration:** building N8N workflows, scrapers and advanced tracking solutions.
-- **AI‑based search and content tools:** leveraging GPT, Babbar, Ahrefs and other platforms to optimize SEM/SEO.
-
-If you’re exploring opportunities for an **AI Growth & Transition Director**, feel free to reach out—let’s build the future together.
-
-My overarching ambition is to secure an **AI leadership position within a Fortune 500 company**, where I can **serve as a mentor**, drive **enterprise‑wide AI adoption** and guide cross‑disciplinary teams toward sustainable innovation.
-
-## 🌱 Continuous Learning
-
-I believe in lifelong learning and am currently focusing on:
-
-- **Perfecting machine learning strategies for search marketing**.
-- **Transition management in the defense and satellite sector**.
-- **Optimizing marketing data flows via automated pipelines**.
-
-## 💬 Ask Me Anything
-
-I’m always happy to discuss **growth hacking**, **tracking & data analysis** and **workflow automation with N8N**. Don’t hesitate to drop me a line!
+What I bring: the rare combination of someone who has **built the AI systems**, **led the teams**, and **delivered the business results** — all with metrics to prove it.
 
 ## ⚡ Fun Fact
 
-I have a theory about the **photon ether**—a medium that might contain all the information of the universe. I’m convinced we can push our understanding of both the web and the cosmos even further.
+I have a theory about the **photon ether** — a medium that might contain all the information of the universe. I'm convinced we can push our understanding of both the web and the cosmos even further.
 
-## 🌐 Connect with Me
+## 🌐 Connect
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:erle.alberton@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%F0%9F%9A%80-erl%C3%A9-alberton-561a7824/) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/cubilizer) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cubilizer) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Yx9m3VBN)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:erle.alberton@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%F0%9F%95%89%EF%B8%8F-erl%C3%A9-alberton-561a7824/) 
+[![ask-erle](https://img.shields.io/badge/ask--erle-AI%20Agent-blue?logo=github)](https://github.com/omkom/ask-erle)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/cubilizer) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cubilizer)
 
 ---
 
-<!-- Visitor counter -->
 [![](https://visitcount.itsvg.in/api?id=omkom&icon=0&color=0)](https://visitcount.itsvg.in)
